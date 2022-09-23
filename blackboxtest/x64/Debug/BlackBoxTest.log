@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  BlackBoxTest.cpp
+D:\KPsDocuments\GDP1\ConfigurationAndDeployment\ConfigDevProjects\BlackBoxTest\BlackBoxTest.cpp(9,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\KPsDocuments\GDP1\ConfigurationAndDeployment\ConfigDevProjects\BlackBoxTest\BlackBoxTest.cpp(15,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  dllmain.cpp
+  Generating Code...
+     Creating library D:\KPsDocuments\GDP1\ConfigurationAndDeployment\ConfigDevProjects\Project1\x64\Debug\BlackBoxTest_d.lib and object D:\KPsDocuments\GDP1\ConfigurationAndDeployment\ConfigDevProjects\Project1\x64\Debug\BlackBoxTest_d.exp
+  BlackBoxTest.vcxproj -> D:\KPsDocuments\GDP1\ConfigurationAndDeployment\ConfigDevProjects\Project1\x64\Debug\BlackBoxTest_d.dll

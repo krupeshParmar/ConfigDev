@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  BlackBoxTest.cpp
+D:\KPsDocuments\GDP1\ConfigurationAndDeployment\ConfigDevProjects\BlackBoxTest\BlackBoxTest.cpp(9,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\KPsDocuments\GDP1\ConfigurationAndDeployment\ConfigDevProjects\BlackBoxTest\BlackBoxTest.cpp(15,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  dllmain.cpp
+     Creating library D:\KPsDocuments\GDP1\ConfigurationAndDeployment\ConfigDevProjects\Project1\x64\Release\BlackBoxTest.lib and object D:\KPsDocuments\GDP1\ConfigurationAndDeployment\ConfigDevProjects\Project1\x64\Release\BlackBoxTest.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BlackBoxTest.vcxproj -> D:\KPsDocuments\GDP1\ConfigurationAndDeployment\ConfigDevProjects\Project1\x64\Release\BlackBoxTest.dll
